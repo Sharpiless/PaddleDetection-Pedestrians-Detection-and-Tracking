@@ -1,5 +1,9 @@
 # PaddleDetection训练单/多镜头行人追踪模型
 
+## 更新直接提交比赛版本：
+
+https://aistudio.baidu.com/aistudio/projectdetail/1411754
+
 ## 项目效果：
 
 项目AI Studio：https://aistudio.baidu.com/aistudio/projectdetail/1563160
